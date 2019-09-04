@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Container } from './styles';
+import * as S from './styles';
 
-const Main = () => <Container>Hello world :)</Container>;
+const Main = () => <S.Container>Hello world!</S.Container>;
 
 export default Main;
