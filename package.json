@@ -1,15 +1,16 @@
 {
   "name": "rbasico",
   "version": "1.0.0",
+  "license": "MIT",
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
     "react-router-dom": "latest",
     "react-scripts": "latest",
-    "styled-components": "latest"
+    "styled-components": "latest",
+    "prop-types": "latest",
   },
   "devDependencies": {
-    "babel-eslint": "latest",
     "babel-plugin-styled-components": "latest",
     "eslint": "latest",
     "eslint-config-airbnb": "latest",
@@ -21,7 +22,8 @@
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-react-native": "latest",
-    "prettier": "latest"
+    "prettier": "latest",
+    "reactotron-react-js": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
