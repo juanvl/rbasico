@@ -8,7 +8,7 @@
     "react-router-dom": "latest",
     "react-scripts": "latest",
     "styled-components": "latest",
-    "prop-types": "latest",
+    "prop-types": "latest"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "latest",
@@ -27,7 +27,7 @@
     "customize-cra": "latest",
     "react-app-rewired": "latest",
     "babel-plugin-root-import": "latest",
-    "eslint-import-resolver-babel-plugin-root-import": "latest",
+    "eslint-import-resolver-babel-plugin-root-import": "latest"
   },
   "scripts": {
     "start": "react-app-rewired start",
