@@ -8,7 +8,8 @@
     "react-router-dom": "latest",
     "react-scripts": "latest",
     "styled-components": "latest",
-    "prop-types": "latest"
+    "prop-types": "latest",
+    "reactotron-react-js": "latest"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "latest",
@@ -23,7 +24,6 @@
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-react-native": "latest",
     "prettier": "latest",
-    "reactotron-react-js": "latest",
     "customize-cra": "latest",
     "react-app-rewired": "latest",
     "babel-plugin-root-import": "latest",
