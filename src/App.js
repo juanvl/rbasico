@@ -1,8 +1,8 @@
 import React from 'react';
 
-import './config/ReactotronConfig';
-import GlobalStyles from 'styles/global';
-import Routes from './routes';
+import '~/config/ReactotronConfig';
+import Routes from '~/routes';
+import GlobalStyles from '~/styles/global';
 
 const App = () => (
   <>
